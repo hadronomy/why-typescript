@@ -19,15 +19,6 @@
   <hr />
 </div>
 
-<div align="center">
-  <img 
-    alt="program example" 
-    src="/.github/images/ia.gif" 
-    width="auto" 
-    height="auto"
-  />
-</div>
-
 ## Why ??
 
 This repository contains an script to setup the `git bisect run` automated script and typescript test file, required
